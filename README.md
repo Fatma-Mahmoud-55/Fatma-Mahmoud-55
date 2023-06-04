@@ -1,7 +1,7 @@
 <!-- ### Hi there :) 👋 -->
 <h1 align="center">Hi 👋, I'm Fatma Mahmoud</h1>
 <h3 align="center">A passionate Full Stack Developer using MEARN from Egypt 👨‍💻</h3>
-<img align="center" alt="coding" width="50%"  src="https://i.pinimg.com/originals/10/b5/53/10b553debe94c2bf0db01f062cf93308.gif">
+<img align="right" alt="coding" width="50%"  src="https://i.pinimg.com/originals/10/b5/53/10b553debe94c2bf0db01f062cf93308.gif">
 <!-- <img align="center" alt="coding" width="70%"  src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fatma-mahmoud-55&label=Profile%20views&color=0e75b6&style=flat" alt="fatma-mahmoud-55" /> </p>
