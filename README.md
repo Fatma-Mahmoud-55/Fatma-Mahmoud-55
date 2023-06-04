@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Fatma Mahmoud</h1>
 <h3 align="center">A passionate Full Stack Developer using MEARN from Egypt 👨‍💻</h3>
 <!-- <img align="right" alt="coding" width="500"  src="https://i.pinimg.com/originals/10/b5/53/10b553debe94c2bf0db01f062cf93308.gif"> -->
-<img align="right" alt="coding" width="350" hight="600"  src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif">
+<img align="right" alt="coding" width="350"  src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatma-mahmoud-55&label=Profile%20views&color=0e75b6&style=flat" alt="fatma-mahmoud-55" /> </p>
 
@@ -11,6 +11,7 @@
 - 📫 How to reach me **fatma55mahmoud55ali@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 <a href="https://linkedin.com/in/fatma-mahmoud-213076250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatma-mahmoud-213076250" height="30" width="40" /></a>
 </p>
